@@ -16,9 +16,9 @@ the app supportes the portrait mode and landscape mode.
 
 ## Screenshots
 <p align="center">
-<img src="https://raw.githubusercontent.com/moafaqS/udacity-pitch-perfect/master/screenshots/IMG_1545.PNG" width="350">
-<img src="https://raw.githubusercontent.com/moafaqS/udacity-pitch-perfect/master/screenshots/IMG_1546.PNG" width="300">
-<img src="https://raw.githubusercontent.com/moafaqS/udacity-pitch-perfect/master/screenshots/IMG_1547.PNG" width="300">
+<img src="https://raw.githubusercontent.com/moafaqS/udacity-pitch-perfect/master/screenshots/IMG_1545.PNG" width="320">
+<img src="https://raw.githubusercontent.com/moafaqS/udacity-pitch-perfect/master/screenshots/IMG_1546.PNG" width="320">
+<img src="https://raw.githubusercontent.com/moafaqS/udacity-pitch-perfect/master/screenshots/IMG_1547.PNG" width="320">
 </p>
 
 
