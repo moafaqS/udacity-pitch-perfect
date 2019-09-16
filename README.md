@@ -15,14 +15,9 @@ git clone https://github.com/moafaqS/udacity-pitch-perfect.git
 the app supportes the portrait mode and landscape mode. 
 
 ## Screenshots
-<img src="https://raw.githubusercontent.com/moafaqS/udacity-pitch-perfect/master/screenshots/IMG_1545.PNG" width="48">
-![record view controller 1](https://raw.githubusercontent.com/moafaqS/udacity-pitch-perfect/master/screenshots/IMG_1545.PNG)
-
-![record view controller 2](https://raw.githubusercontent.com/moafaqS/udacity-pitch-perfect/master/screenshots/IMG_1546.PNG)
-![effcts view controller](https://raw.githubusercontent.com/moafaqS/udacity-pitch-perfect/master/screenshots/IMG_1547.PNG)
-
-
-
+<img src="https://raw.githubusercontent.com/moafaqS/udacity-pitch-perfect/master/screenshots/IMG_1545.PNG" width="100">
+<img src="https://raw.githubusercontent.com/moafaqS/udacity-pitch-perfect/master/screenshots/IMG_1546.PNG" width="100">
+<img src="https://raw.githubusercontent.com/moafaqS/udacity-pitch-perfect/master/screenshots/IMG_1547.PNG" width="100">
 
 
 
