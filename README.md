@@ -16,7 +16,8 @@ the app supportes the portrait mode and landscape mode.
 
 ## Screenshots
 
-![RecordSoundsViewController](https://raw.githubusercontent.com/moafaqS/master/udacity-pitch-perfect/udacity-pitch-perfect/screenshots/IMG_1545.PNG)
+![RecordSoundsViewController](https://raw.githubusercontent.com/moafaqS/udacity-pitch-perfect/master/udacity-pitch-perfect/screenshots/IMG_1545.PNG)
+
 
 
 
